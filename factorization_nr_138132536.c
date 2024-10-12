@@ -83,7 +83,7 @@ mpz_init_set_str (due, "2", 10);
 mpz_init_set_str (exp, "1", 10);
 mpz_init_set_str (b, "2", 10);
 mpz_init_set_str (y, "1", 10);
-mpz_init_set_str (max_a, "2", 10);/*////////////////////////////////SET THIS VALUE////////////////////*/
+mpz_init_set_str (max_a, "25", 10);/*////////////////////////////////SET THIS VALUE////////////////////*/
 
 /*
 mpz_init_set_str (TEST, "390644893234047643", 10);
